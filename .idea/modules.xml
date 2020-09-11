@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/constraintlayout.iml" filepath="$PROJECT_DIR$/.idea/modules/constraintlayout.iml" group="constraintlayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/constraintlayout/constraintlayout-constraintlayout.iml" filepath="$PROJECT_DIR$/.idea/modules/constraintlayout/constraintlayout-constraintlayout.iml" group="constraintlayout/constraintlayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solver/solver.iml" filepath="$PROJECT_DIR$/.idea/modules/solver/solver.iml" group="constraintlayout/solver" />
+    </modules>
+  </component>
+</project>
